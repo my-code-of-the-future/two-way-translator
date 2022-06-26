@@ -1,0 +1,52 @@
+user serached for: hello world
+translated text of your desired language is:Bonjour le monde
+user serached for: hello world
+translated text of your desired language is:Hola Mundo
+user serached for: hola Mundo
+translated text of your desired language is:Hallo Welt
+user serached for: thsnk you
+translated text of your desired language is:Danke
+user serached for: thank you
+translated text of your desired language is:Danke
+user serached for: german
+translated text of your desired language is:alemán
+user serached for: english
+translated text of your desired language is:inglés
+user serached for: we love pakistan
+translated text of your desired language is:amamos pakistán
+user serached for: we love pakistan
+translated text of your desired language is:nous aimons le pakistan
+user serached for: we love pakistan
+translated text of your desired language is:Wir lieben Pakistan
+user serached for: hello welt
+translated text of your desired language is:hello welt
+user serached for: concatenate
+translated text of your desired language is:enchaîner
+user serached for: momina
+translated text of your desired language is:Momina
+user serached for: momina
+translated text of your desired language is:Mama
+user serached for: word
+translated text of your desired language is:Wort
+user serached for: word
+translated text of your desired language is:palabra
+user serached for: word
+translated text of your desired language is:mot
+user serached for: mot
+translated text of your desired language is:against
+user serached for: kill
+translated text of your desired language is:matar
+user serached for: matar
+translated text of your desired language is:matar
+user serached for: matar
+translated text of your desired language is:matar
+user serached for: matar
+translated text of your desired language is:la femme
+user serached for: misbah
+translated text of your desired language is:Misba
+user serached for: misbah
+translated text of your desired language is:misba
+user serached for: misbah
+translated text of your desired language is:misbah
+user serached for: fakiha
+translated text of your desired language is:Obst
